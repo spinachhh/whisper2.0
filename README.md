@@ -4,8 +4,9 @@ whisper2.0使用neteasecloudmusicapi提供的网易云音乐api，在1.0基础�
 
 截至目前功能还不完善，后续有时间再慢慢补上
 
-[在线演示](http://118.193.37.162/index.html#/index)
+[在线演示](http://118.193.37.162/whisper/index.html)
 
+由于服务器原因，加载有点慢，请耐心等待
 
 
 手机扫码访问 ![](./1625558804.png)
